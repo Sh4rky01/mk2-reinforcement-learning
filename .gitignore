@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Training outputs
+checkpoints/
+runs/
+logs/
+
+# ROMs / game files
+roms/
+*.bin
+*.sfc
+*.smc
+*.zip
